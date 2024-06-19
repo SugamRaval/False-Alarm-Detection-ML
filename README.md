@@ -1,4 +1,4 @@
-# Fire Alarm System
+# False Alarm Detection
 
 This project implements a fire alarm system using machine learning to predict whether a detected situation is a true alarm or a false alarm based on various environmental factors.
 
